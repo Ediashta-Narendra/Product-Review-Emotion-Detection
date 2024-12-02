@@ -12,4 +12,4 @@ Dengan pemahaman kedua paragraf di atas, akan dilakukan sebuah permodelan untuk 
 
 Tujuan dari dilakukan permodelan ini adalah dalam penggunaan tim business development Tokopedia, sehingga dapat ditentukan lebih lanjut ketika didapatkan emosi dari sebuah review. Penggunaan model ini dapat langsung digunakan pada saat proses end-to-end permodelan ini selesai. Permodelan akan dilakukan menggunakan modeling Artificial Neuron Network yang akan dilakukan penyempurnaan berkala sehingga didapatkan model dengan akurasi prediksi yang paling baik.
 
-[Huggingface Deployment Link]('https://huggingface.co/spaces/Narendraaa/G7P2_SPACE')
+Huggingface Deployment Link : https://huggingface.co/spaces/Narendraaa/G7P2_SPACE
