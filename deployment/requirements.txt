@@ -1,0 +1,11 @@
+streamlit
+scikit-learn
+pandas
+seaborn
+matplotlib
+joblib
+imbalanced-learn
+worcloud
+streamlit==1.32.0
+tensorflow==2.15.0
+keras==2.15.0
