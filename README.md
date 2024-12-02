@@ -1,7 +1,7 @@
 # Product Review Emotion Detection
 
 ## Dataset Description
-Dataset [PRDECT-ID]('https://data.mendeley.com/datasets/574v66hf2v/1') adalah kumpulan data review produk dalam Bahasa Indonesia dengan label emosi. Dataset dikumpulkan dari platform e-commerce Tokopedia. Pada utilisasinya, akan digunakan dua kolom saja, sesuai dengan kebutuhan permodelan yang akan dilakukan.
+Dataset PRDECT-ID ( https://data.mendeley.com/datasets/574v66hf2v/1 ) adalah kumpulan data review produk dalam Bahasa Indonesia dengan label emosi. Dataset dikumpulkan dari platform e-commerce Tokopedia. Pada utilisasinya, akan digunakan dua kolom saja, sesuai dengan kebutuhan permodelan yang akan dilakukan.
 
 ## Objective
 Menegenali emosi merupakan sebuah hal yang cukup krusial dalam konteks komunikasi, karena emosi dapat memberikan pesan tambahan dalam proses komunikasi yang juga akan memperkuat pesan yang disampaikan. Pada masa sekarang, manusia dapat berkomunikasi melalui berbagai kanal dan media, salah satunya adalah melalui review produk pada platform e-commerce. Pesan yang disampaikan konsumen pada produk review merupakan informasi yang sangat berharga, baik bagi mitra penjual/seller maupun bagi company e-commerce, karena keberlanjutan penggunaan services pada sebuah e-commerce akan ditentukan dari seberapa puas konsumen terhadap kualitas barang yang dirasakan termasuk kualitas services yang ditawarkan e-commerce dalam melakukan tata kelola environmetnya. Pada kesimpulannya, emosi akan mempengaruhi keputusan konsumen untuk membeli atau tidak membeli sebuah barang ataupun services.
